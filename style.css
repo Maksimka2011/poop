@@ -1,1 +1,22 @@
-
+p{
+    font-size: 19px;
+}
+li{
+margin-top:4 px;
+margin-bottom:4px ;
+font-size: 19px;
+}
+li:hover{
+font-size: 23px;
+color: greenyellow;
+    transition: 1s ;
+}
+body{
+ background-color: forestgreen;   
+}
+h1{
+    text-align:center ;
+}
+img{
+    border: honeydew 6px double;
+}
